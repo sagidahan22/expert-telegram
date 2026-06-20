@@ -1,0 +1,24 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#01030A"/>
+  <path d="M0 0H900V1100H0V0Z" fill="url(#bg)"/>
+  <path d="M90 120H810V980H90V120Z" fill="#060B18" stroke="#1E3A52" stroke-width="2"/>
+  <path d="M130 190H770M130 270H770M130 350H770M130 430H770M130 510H770M130 590H770M130 670H770M130 750H770M130 830H770" stroke="#38D6FF" stroke-opacity=".055"/>
+  <path d="M190 180V900M270 180V900M350 180V900M430 180V900M510 180V900M590 180V900M670 180V900M750 180V900" stroke="#38D6FF" stroke-opacity=".045"/>
+  <path d="M118 762H782" stroke="#EAF8FF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M126 718H206V806H126V718ZM694 718H774V806H694V718Z" fill="#38D6FF"/>
+  <path d="M156 700H198V824H156V700ZM702 700H744V824H702V700Z" fill="#0EA5E9"/>
+  <circle cx="450" cy="358" r="72" fill="#EAF8FF"/>
+  <path d="M330 578C330 510 384 456 452 456C520 456 574 510 574 578V738H330V578Z" fill="#EAF8FF"/>
+  <path d="M318 594C246 622 206 676 198 762" stroke="#38D6FF" stroke-width="30" stroke-linecap="round"/>
+  <path d="M582 594C654 622 694 676 702 762" stroke="#38D6FF" stroke-width="30" stroke-linecap="round"/>
+  <path d="M364 738L318 932M536 738L582 932" stroke="#EAF8FF" stroke-width="30" stroke-linecap="round"/>
+  <path d="M232 978H668" stroke="#38D6FF" stroke-opacity=".55" stroke-width="2"/>
+  <text x="450" y="1008" text-anchor="middle" fill="#BAE6FD" font-family="Arial, sans-serif" font-size="26" font-weight="800">STRENGTH COACHING VISUAL</text>
+  <defs>
+    <linearGradient id="bg" x1="450" y1="0" x2="450" y2="1100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426"/>
+      <stop offset=".46" stop-color="#020617"/>
+      <stop offset="1" stop-color="#01030A"/>
+    </linearGradient>
+  </defs>
+</svg>

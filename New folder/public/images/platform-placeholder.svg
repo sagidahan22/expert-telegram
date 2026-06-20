@@ -1,0 +1,26 @@
+<svg width="900" height="720" viewBox="0 0 900 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="720" fill="#01030A"/>
+  <path d="M0 0H900V720H0V0Z" fill="url(#bg)"/>
+  <path d="M92 504H808" stroke="#EAF8FF" stroke-width="20" stroke-linecap="round"/>
+  <path d="M84 542H816V604H84V542Z" fill="#08111F" stroke="#38D6FF" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M104 604H796" stroke="#38D6FF" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="226" cy="504" r="62" fill="#38D6FF"/>
+  <circle cx="674" cy="504" r="62" fill="#38D6FF"/>
+  <circle cx="226" cy="504" r="36" fill="#06101E"/>
+  <circle cx="674" cy="504" r="36" fill="#06101E"/>
+  <path d="M402 482L436 348L470 482" stroke="#EAF8FF" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="436" cy="272" r="50" fill="#EAF8FF"/>
+  <path d="M300 426H572" stroke="#38D6FF" stroke-width="18" stroke-linecap="round"/>
+  <rect x="128" y="108" width="644" height="92" rx="6" fill="#050A15" stroke="#1E3A52"/>
+  <text x="450" y="165" text-anchor="middle" fill="#BAE6FD" font-family="Arial, sans-serif" font-size="30" font-weight="800">POWERLIFTING / MUSCLE / PERFORMANCE</text>
+  <path d="M126 250H774" stroke="#38D6FF" stroke-opacity=".1"/>
+  <path d="M126 302H774" stroke="#38D6FF" stroke-opacity=".08"/>
+  <path d="M126 354H774" stroke="#38D6FF" stroke-opacity=".06"/>
+  <defs>
+    <linearGradient id="bg" x1="450" y1="0" x2="450" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426"/>
+      <stop offset=".48" stop-color="#020617"/>
+      <stop offset="1" stop-color="#01030A"/>
+    </linearGradient>
+  </defs>
+</svg>
